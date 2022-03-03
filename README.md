@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hsnkhld
-- 👀 I’m interested in AI & ML @ CV
-- 🌱 I’m currently learning ML @ DL
+- 👀 I’m interested in AI & ML & CV
+- 🌱 I’m currently learning ML & DL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me MY EMAIL: hassan.apk@gmail.com
 
